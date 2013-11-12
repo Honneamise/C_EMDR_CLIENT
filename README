@@ -18,7 +18,7 @@ Put the files of the attachment in a folder and compile with :
 It will produce the classic executable "a.out" ready to run
 
 -ON WINDOWS :
-In MSVC create a new empty project, add the attachment files as existing items and link both zmq lib and zlib
+In MSVC create a new empty project, add the repository files as existing items and link both zmq lib and zlib
 
 -NOTE ON WINDOWS :
 -If the compiler give warnings about unsafe functions, add "_CRT_SECURE_NO_WARNINGS" in the pre-processor definitions
